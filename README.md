@@ -1,4 +1,4 @@
-# 4x4 Tic-Tac-Toe with AI (IDDFS)
+# 4x4 X O game (Tic-Tac-Toe) with AI (IDDFS)
 
 An interactive Java-based Tic-Tac-Toe game featuring an intelligent AI opponent. The game is built using Java Swing for the graphical user interface and implements advanced search algorithms to provide a challenging experience.
 
