@@ -24,12 +24,8 @@ Developed using **Java Swing**, ensuring a responsive and interactive user exper
 ##  How to Run
 
 1.  Make sure you have **Java Runtime Environment (JRE)** installed.
-2.  Open the terminal/command prompt.
-3.  Navigate to the `dist` folder.
-4.  Run the command:
-    ```bash
-    java -jar X_O.jar
-    ```
+2.  Download dist folder.
+3.  click on X_O.jar .
 
 ##  Project Structure
 * `src/`: Contains the Java source code.
