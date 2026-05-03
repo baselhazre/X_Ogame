@@ -28,7 +28,7 @@ Developed using **Java Swing**, ensuring a responsive and interactive user exper
 3.  Navigate to the `dist` folder.
 4.  Run the command:
     ```bash
-    java -jar X_O_Game.jar
+    java -jar X_O.jar
     ```
 
 ##  Project Structure
